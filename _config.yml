@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Park Won jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "미래의 **개발자**를 꿈꾸는 박원진입니다"
+  location         : "Handong Global University"
+  email            : "22000286@handong.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Wonjin-david/Wonjin-david"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url:"https://github.com/Wonjin-david/Wonjin-david"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
